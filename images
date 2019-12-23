@@ -1,5 +1,5 @@
 k8s.gcr.io/kube-proxy:v1.14.8=duqian/kube-proxy:v1.14.8
-k8s.gcr.io/kube-controller-manager:v1.15.5=duqian/kube-controller-manager:v1.14.8
+k8s.gcr.io/kube-controller-manager:v1.14.8=duqian/kube-controller-manager:v1.14.8
 k8s.gcr.io/kube-scheduler:v1.14.8=duqian/kube-scheduler:v1.14.8
 k8s.gcr.io/kube-apiserver:v1.14.8=duqian/kube-apiserver:v1.14.8
 k8s.gcr.io/coredns:1.3.1=duqian/coredns:1.3.1
