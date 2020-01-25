@@ -11,5 +11,5 @@ jobs:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
         repository: duqian
-        kubernetes_version: v1.14.8
+        kubernetes_version: v1.15.5
   
