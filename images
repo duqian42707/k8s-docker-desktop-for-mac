@@ -6,5 +6,5 @@ k8s.gcr.io/coredns:1.6.2=duqian/coredns:1.6.2
 k8s.gcr.io/pause:3.1=duqian/pause:3.1
 k8s.gcr.io/etcd:3.3.15-0=duqian/etcd:3.3.15-0
 
-# metrics-server
+
 k8s.gcr.io/metrics-server-amd64:v0.3.1=duqian/metrics-server-amd64:v0.3.1
