@@ -1,8 +1,7 @@
-k8s.gcr.io/kube-proxy:v1.16.5=duqian/kube-proxy:v1.16.5
-k8s.gcr.io/kube-controller-manager:v1.16.5=duqian/kube-controller-manager:v1.16.5
-k8s.gcr.io/kube-scheduler:v1.16.5=duqian/kube-scheduler:v1.16.5
-k8s.gcr.io/kube-apiserver:v1.16.5=duqian/kube-apiserver:v1.16.5
-k8s.gcr.io/coredns:1.6.2=duqian/coredns:1.6.2
-k8s.gcr.io/pause:3.1=duqian/pause:3.1
-k8s.gcr.io/etcd:3.3.15-0=duqian/etcd:3.3.15-0
-k8s.gcr.io/metrics-server-amd64:v0.3.1=duqian/metrics-server-amd64:v0.3.1
+k8s.gcr.io/kube-proxy:v1.18.8=duqian/kube-proxy:v1.18.8
+k8s.gcr.io/kube-controller-manager:v1.18.8=duqian/kube-controller-manager:v1.18.8
+k8s.gcr.io/kube-scheduler:v1.18.8=duqian/kube-scheduler:v1.18.8
+k8s.gcr.io/kube-apiserver:v1.18.8=duqian/kube-apiserver:v1.18.8
+k8s.gcr.io/coredns:1.6.7=duqian/coredns:1.6.7
+k8s.gcr.io/pause:3.2=duqian/pause:3.2
+k8s.gcr.io/etcd:3.4.3-0=duqian/etcd:3.4.3-0
